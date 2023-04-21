@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "name": "frontend-pet-lovers",
+  "version": "0.0.1",
+  "description": "Frontend de la  aplicacion Pet Lovers con Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend",
+    "bootstrap",
+    "sass",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "David Claros <davidalejo32@hotmail.com>",
+  "license": "MIT"
+}
